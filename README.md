@@ -1,5 +1,5 @@
 ### ts_merge
-适用于windows，批量合并手机uc浏览器等多种场景下m3u8视频缓存生成的ts流文件
+适用于windows，批量合并m3u8视频缓存生成的ts流文件，适合手机uc浏览器等多种场景。
 
 ### 二进制下载
 https://github.com/itchin/ts_merge/releases
